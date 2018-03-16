@@ -1,0 +1,138 @@
+body{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 14px;
+	color: #000;
+}
+header{
+	background-color:#23415B;
+	
+}
+header h1{ color:#666;
+	font-size: 20px;	
+}
+#sec-primera {
+	
+}
+#sec-nueve {background-image:url(../img/inicio.PNG);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:5%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	margin:30px 0px;
+	
+}
+#sec-diez {background-image:url(../img/AAIA_wDGAAAAAQAAAAAAAAvLAAAAJGMzYmUwMjI2LTA0MTgtNGQ0ZS1hZmJkLTljMThiNzIzNDg0OA.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:5%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	margin:30px 0px;
+	
+}
+.cuadros {
+	text-align: center;
+	padding: 80px 10px 10px;
+	margin-left:80px;
+	margin-right:80px;
+	
+}
+#sec-uno {
+	
+}
+
+.gallery {
+	padding: 10px 10px 10px;
+	margin-left:30px;
+	margin-right:30px;
+}
+.personal {
+	padding: 50px 10px 10px;
+	margin-left:60px;
+	margin-right:60px;
+	
+}
+.personal p{color:#999;
+text-align: center;
+	
+}
+#sec-summer {
+	background-color:#39F;
+	color:#FFF;
+	padding:50px 0px;
+	
+}
+#sec-esta {padding: 80px 10px 10px;
+	margin-left:60px;
+	margin-right:60px;
+	text-align: center;
+	
+}
+#sec-esta h1{
+	color:#000;
+
+}
+
+#sec-esta p{
+	color:#39F;
+
+	
+}
+
+
+#sec-footer{
+	background-color: #666;
+	color: #FFFFFF;
+	padding: 30px 0px;
+	text-align: center;
+		
+}
+#sec-footer h4{
+	text-align: center;
+}
+#sec-footer p {
+	color:#FFF;
+	font-size:14px;
+	text-align:center;
+	
+}
+#sec-footer ul{
+	list-style: none;	
+}
+#sec-footer a{ color: #FFFFFF;
+	text-decoration: none;
+	
+}
+#sec-footer a:hover { color: #39F;
+	text-decoration: none;
+	
+}
+#sec-copy{
+	
+	background-color:#333;
+	color: #FFF;
+	padding: 25px 0px ;
+	text-align: center;
+}
+.colorazul{ color:#39F;
+	
+}
+.colorblan{ color:#FFFFFF;
+	
+}
+
+
+#map{
+	width: 100%;
+	height:300px;
+    
+}
